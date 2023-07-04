@@ -1,0 +1,16 @@
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\bin\Debug\SPS Lotov_Stepanov Kredit.exe.config
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\bin\Debug\SPS Lotov_Stepanov Kredit.exe
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\bin\Debug\SPS Lotov_Stepanov Kredit.pdb
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\bin\Debug\Mono.Security.dll
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\bin\Debug\Npgsql.dll
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\bin\Debug\Npgsql.pdb
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS Lotov_Stepanov Kredit.csprojAssemblyReference.cache
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS_Lotov_Stepanov_Kredit.Form1.resources
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS_Lotov_Stepanov_Kredit.Properties.Resources.resources
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS Lotov_Stepanov Kredit.csproj.GenerateResource.cache
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS Lotov_Stepanov Kredit.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS Lotov_Stepanov Kredit.csproj.CopyComplete
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS Lotov_Stepanov Kredit.exe
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS Lotov_Stepanov Kredit.pdb
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS_Lotov_Stepanov_Kredit.Add_Borrower.resources
+C:\Users\Alexey\source\repos\SPS Lotov_Stepanov Kredit\obj\Debug\SPS_Lotov_Stepanov_Kredit.Add_Сredit.resources
